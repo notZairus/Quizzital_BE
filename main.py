@@ -6,6 +6,7 @@ from configs import db, app, api
 
 
 
+
 # Models / Database Tables
 from Models.classroom_model import Classroom
 from Models.user_model import User
